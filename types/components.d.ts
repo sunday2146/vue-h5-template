@@ -25,6 +25,10 @@ declare module '@vue/runtime-core' {
     RouterLink: typeof import('vue-router')['RouterLink'];
     RouterView: typeof import('vue-router')['RouterView'];
     VanButton: typeof import('vant/es')['Button'];
+    VanCellGroup: typeof import('vant/es')['CellGroup'];
+    VanCheckbox: typeof import('vant/es')['Checkbox'];
+    VanField: typeof import('vant/es')['Field'];
+    VanForm: typeof import('vant/es')['Form'];
     VanNavBar: typeof import('vant/es')['NavBar'];
     VarButton: typeof import('@varlet/ui')['_ButtonComponent'];
     VarSpace: typeof import('@varlet/ui')['_SpaceComponent'];
